@@ -1,0 +1,13 @@
+{
+  "md5": "e3b0c44298fc1c149afbf4c8996fb924",
+  "domains": [
+    "agenttesla[.]xyz"
+  ],
+  "ips": [
+    "185.62.189.43"
+  ],
+  "mutex": "AgentTesla_abc123",
+  "registry_keys": [
+    "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Run"
+  ]
+}
